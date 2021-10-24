@@ -1,0 +1,10 @@
+ID	NAME
+367	Apparel
+376	Education/comm
+378	Food and beverages
+395	Housing
+428	Medical care
+408	Other
+412	Recreation
+419	Transportation
+

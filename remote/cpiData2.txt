@@ -1,0 +1,193 @@
+V1	shortName	changeColor	weight	notes
+5	Boys' clothes	3.6	0.2	
+12	Children's shoes	4.6	0.1	
+11	Men's shoes	-0.7	0.2	
+13	Women's shoes	0	0.3	
+188	Girls' clothes	-9.4	0.3	
+2	Men's accessories	0.9	0.2	
+4	Men's pants	3.3	0.2	
+3	Men's shirts	-3.4	0.2	
+1	Men's suits and coats	2.1	0.1	
+14	Baby clothes	-1.7	0.2	
+16	Jewelry	8.7	0.3	
+15	Watches	-2.3	0	
+7	Dresses	-1.4	0.1	
+6	Women's coats	-5.8	0.1	
+8	Women's suits and separates	-6	0.7	
+9	Women's accessories	-2.1	0.3	
+119	Software	-5.3	0	
+120	Internet	-0.4	0.3	
+118	Computers	-12	0.2	
+121	Phones	-5.3	0.1	
+204	Postage	3.9	0.2	
+22	Delivery	12.2	0	
+116	Land-line local charges	3.4	0.8	
+23	Land-line long distance	2.2	0.5	
+117	Cellphone service	-0.8	1	
+17	Books and supplies	6.3	0.2	
+20	Child care	4.2	0.8	
+18	College tuition and fees	6.1	1.4	
+19	Elementary and high school tuition	5.5	0.4	
+21	Technical school	3.8	0.1	
+63	Beer at home	3.7	0.3	
+64	Liquor at home	1.1	0.1	
+65	Wine at home	1.8	0.2	
+217	Alcohol away from home	4.7	0.5	
+66	Alcohol away from home	4.7	0.5	
+122	Bread	14.7	0.2	
+27	Cakes, cookies	5.9	0.2	
+123	Rolls	8.5	0.1	
+28	Other bakery	3.5	0.2	
+25	Cereal	4.8	0.2	
+24	Flour	13.9	0	
+26	Rice, pasta	13	0.1	
+40	Cheese	12.5	0.3	
+41	Ice cream	2.8	0.1	
+39	Milk	13.3	0.3	
+128	Other dairy	11.2	0.2	
+42	Apples	7.5	0.1	
+43	Bananas	14.9	0.1	
+44	Citrus fruit	-9.5	0.1	
+45	Other fresh fruit	2.5	0.2	
+129	Lettuce	-3.2	0.1	
+48	Other fresh vegetables	-6.6	0.2	
+46	Potatoes	3.4	0.1	
+47	Tomatoes	18.2	0.1	
+31	Bacon, sausage	-0.2	0.1	
+126	Chicken	5.9	0.3	
+38	Eggs	29.9	0.1	
+127	Fresh fish	3.9	0.2	
+32	Ham	-1.3	0.1	
+35	Other meat	1.8	0.2	
+34	Other pork	-4.4	0.1	
+36	Turkey	3.6	0.1	
+33	Pork chops	-1.3	0.1	
+37	Frozen fish	3.2	0.1	
+124	Beef roasts	3.1	0.1	
+30	Beef steaks	0.8	0.2	
+29	Ground beef	4.8	0.2	
+125	Other beef, veal	6.2	0	
+52	Carbonated drinks	2.2	0.3	
+133	Tea, other drinks	3	0.2	
+132	Coffee	4.8	0.1	
+130	Frozen juice	8	0	
+131	Juice, water	2.3	0.3	
+137	Baby food	5.6	0.1	
+53	Sugar	-1.7	0	
+136	Oils, peanut butter	11.7	0.1	
+55	Salad dressing	2.7	0.1	
+56	Soups	3.5	0.1	
+57	Frozen food	2.7	0.3	
+138	Other misc. foods	2.6	0.4	
+58	Snacks	3.3	0.3	
+59	Spices, condiments	2.7	0.2	
+135	Butter	4.2	0.1	
+134	Candy, gum	5.9	0.2	
+54	Other sweets	5	0.1	
+49	Canned fruits and vegetables	5.7	0.1	
+50	Frozen fruits and vegetables	3.6	0.1	
+51	Other processed produce	4.7	0	
+61	Food at work and school cafeterias	3.1	0.3	
+140	Vending machines	4.3	0.1	
+60	Full-service restaurant meals	3.9	3	
+139	Fast food	4.4	2.4	
+62	Other food away from home	5.1	0.3	
+155	Major appliances	0.1	0.2	
+82	Other appliances	-1.9	0.1	
+75	Fuel oil	48.4	0.2	
+76	Propane, firewood	23.4	0.1	
+153	Bedroom furniture	-2.3	0.3	
+154	Living room and kitchen furniture	-0.5	0.5	
+81	Other furniture	-0.7	0.2	
+77	Electricity	3.7	2.8	
+78	Piped gas	5.3	1.1	
+150	Rugs	-0.1	0	
+152	Other linens	-7.1	0.2	
+151	Window coverings	2	0.1	
+162	Domestic services	3.3	0.2	
+163	Gardening/lawn care (seasonal)	NA	0.2	
+86	Moving	-0.1	0.1	
+164	Repair	4.7	0.1	
+160	Cleaning products	1	0.4	
+161	Paper products	5.8	0.2	
+85	Misc. household products	1.3	0.3	
+156	Clocks, lamps, decorations	-7.5	0.3	
+157	Dishes	-0.6	0.1	
+83	Indoor plants	3.6	0.1	
+158	Tableware	5.5	0.1	
+72	Housing at school	5	0.1	
+73	Hotels, motels, vacation homes	5	2.4	
+74	Owner's equivalent rent	2.6	23.9	(what homeowners would pay if they were renting their homes)
+71	Rent	3.6	5.8	
+149	Home insurance	0.3	0.3	
+84	Outdoor equipment	-2.5	0.4	
+159	Tools	-1.2	0.2	
+80	Garbage collection	4.8	0.3	
+79	Water and sewage	5.5	0.7	
+165	Over-the-counter drugs	2.2	0.3	
+87	Prescription drugs	4.2	1.2	
+88	Nonprescription supplies	1	0.1	
+90	Dental services	5.8	0.7	
+91	Eyeglasses	2.5	0.2	
+166	Health insurance	4.4	0.5	
+93	Hospital services	8.3	1.3	
+89	Doctor's services	2.1	1.3	
+92	Other medical care	3.1	0.3	
+70	Misc. personal goods	2.1	0.2	
+144	Cosmetics, perfume	-0.4	0.3	
+143	Hair, dental, shaving products	0.2	0.3	
+145	Haircuts and other personal care	3.6	0.6	
+147	Tailoring	5.1	0	
+69	Financial services	4.4	0.2	
+68	Funeral expenses	4.8	0.2	
+146	Laundry and dry cleaning	4.3	0.3	
+67	Legal services	3.6	0.3	
+141	Cigarettes	4.6	0.7	
+142	Other tobacco	4	0	
+104	Admissions	2.4	0.7	
+103	Club memberships	1.4	0.6	
+105	Lessons	3.4	0.2	
+173	Music instruments	1.2	0	
+172	Sewing	-2.4	0.1	
+102	Toys	-5.2	0.2	
+99	Veterinary care	5.9	0.3	
+98	Pets and pet supplies	6.8	0.4	
+171	Photographers, film processing	0.3	0.1	
+101	Cameras, film	-6.1	0.1	
+174	Newspapers and magazines	1.8	0.1	
+175	Books	1.4	0.1	
+170	Sports equipment	-1	0.3	
+100	Bicycles	0	0.3	
+169	CDs	0.3	0.1	
+168	Audio equipment	-6.1	0.1	
+96	Cable	3.6	1.2	
+97	Other video equip.	-11.3	0	
+95	TVs	-18.3	0.2	
+167	DVDs	2.1	0.2	
+179	Body work	2.3	0.1	
+178	Car parts except tires	6.6	0.1	
+176	Leased vehicles	0.3	0.6	
+106	New cars and trucks	-1.1	4.6	
+180	Car maintenance	4.2	0.4	
+111	Car repair	3.9	0.6	
+112	Car insurance	1.3	2	
+182	Parking	4.4	0.2	
+181	Car licensing fees	1.9	0.3	
+107	Used cars and trucks	2.1	1.8	
+177	Other motor fuel	40.2	0.3	
+108	Rental cars	4.6	0.1	
+109	Gasoline	26	5.2	
+110	Tires	3.7	0.2	
+113	Plane tickets	10.2	0.7	
+183	City buses, subways, taxis	3.5	0.2	
+114	Other intercity transportation	1.8	0.2	
+94	Nursing homes	4.7	0.1	
+148	At-home care	5	0.1	
+367	Apparel	-1.4	3.7	
+428	Health care	4.6	6.2	
+419	Transportation	8.2	17.7	
+378	Food and beverages	4.4	14.9	
+408	Miscellaneous	4.5	3.3	
+412	Recreation	2.3	5.6	
+376	Education/communication	3.2	6.1	
+395	Housing	3	42.4	

@@ -1,0 +1,186 @@
+ID	NAME	LONG	LAT
+5	Boys' clothes	730.6585	215.7415
+12	Boys' and girls' footwear	621.3925	166.1135
+11	Men's footwear	622.649	111.5861
+13	Women's footwear	622.381	143.241
+188	Girls' apparel	627.4065	81.59485
+2	Men's furnishings	659.848	114.18635
+4	Men's pants and shorts	672.9895	131.515
+3	Men's shirts and sweaters	688.405	153.489
+1	Men's suits, sport coats, and outerwear	654.925	153.531
+14	Infants' and toddlers' apparel	706.69	166.963
+16	Jewelry	709.8725	200.8145
+15	Watches	736.2615	188.583
+7	Women's dresses	695.895	222.462
+6	Women's outerwear	672.876	180.661
+8	Women's suits and separates	655.525	219.3055
+9	Women's underwear, nightwear, sportswear and accessories	631.404	189.9785
+119	Computer software and accessories	13.807	389.6735
+120	Internet services and electronic information providers	25.12861	413.241
+118	Personal computers and peripheral equipment	31.170055	439.842
+121	Telephone hardware, calculators, and other consumer information items	13.53286	452.168
+204	Postage	17.645025	365.187
+22	Delivery services	9.80214	380.6805
+116	Land-line telephone services, local charges	73.60595	409.147
+23	Land-line telephone services, long distance charges	54.4882	370.1195
+117	Wireless telephone services	122.73875	388.415
+17	Educational books and supplies	64.9558	212.7515
+20	Child care and nursery school	108.50145	312.6685
+18	College tuition and fees	70.8852	277.2475
+19	Elementary and high school tuition and fees	37.27619	324.371
+21	Technical and business school tuition and fees	47.7519	239.924
+63	Beer, ale, and other malt beverages at home	409.0685	540.824
+64	Distilled spirits at home	392.6485	526.996
+65	Wine at home	420.524	559.711
+217	Alcoholic beverages away from home	490.212	761.85
+66	Alcoholic beverages away from home	490.212	761.85
+122	Bread	321.092	771.7955
+27	Cakes, cupcakes, and cookies	288.3495	767.068
+123	Fresh biscuits, rolls, muffins	331.4985	746.8315
+28	Other bakery products	301.275	740.9465
+25	Breakfast cereal	352.5565	768.5575
+24	Flour and prepared flour mixes	336.4455	786.462
+26	Rice, pasta, cornmeal	357.853	787.203
+40	Cheese and related products	442.4375	775.945
+41	Ice cream and related products	414.5625	783.565
+39	Milk	390.9915	770.802
+128	Other dairy and related products	409.4255	752.9625
+42	Apples	250.8345	758.991
+43	Bananas	267.839	765.3275
+44	Citrus fruits	234.1915	750.265
+45	Other fresh fruits	263.0935	731.813
+129	Lettuce	366.052	748.091
+48	Other fresh vegetables	368.6225	717.427
+46	Potatoes	380.217	739.072
+47	Tomatoes	351.047	738.4505
+31	Bacon, breakfast sausage, and related products	479.774	694.814
+126	Chicken	448.6015	720.068
+38	Eggs	429.3925	739.8315
+127	Fresh fish and seafood	419.8865	691.383
+32	Ham	403.5105	734.752
+35	Other meats	463.7205	664.5975
+34	Other pork including roasts and picnics	459.4205	761.612
+36	Other poultry including turkey	391.5475	701.116
+33	Pork chops	448.0035	751.3495
+37	Processed fish and seafood	438.281	679.701
+124	Uncooked beef roasts	454.02	694.683
+30	Uncooked beef steaks	483.3935	725.534
+29	Uncooked ground beef	408.437	713.6685
+125	Uncooked other beef and veal	468.7875	744.331
+52	Carbonated drinks	348.0765	708.525
+133	Other beverage materials including tea	333.1015	670.8235
+132	Coffee	285.2975	708.094
+130	Frozen noncarbonated juices and drinks	308.2215	679.7725
+131	Nonfrozen noncarbonated juices and drinks	312.611	708.4995
+137	Baby food	360.9825	629.5685
+53	Sugar and artificial sweeteners	443.891	656.584
+136	Other fats and oils including peanut butter	393.6425	624.3375
+55	Salad dressing	381.0445	637.389
+56	Soups	378.383	612.865
+57	Frozen and freeze dried prepared foods	446.227	629.963
+138	Other miscellaneous foods	408.4775	653.313
+58	Snacks	382.796	676.9035
+59	Spices, seasonings, condiments, sauces	357.9535	656.979
+135	Butter and margarine	422.7465	612.2615
+134	Candy and chewing gum	403.353	606.917
+54	Other sweets	403.394	583.2465
+49	Canned fruits and vegetables	437.867	590.1395
+50	Frozen fruits and vegetables	447.4165	604.2105
+51	Other processed fruits and vegetables including dried	419.428	587.242
+61	Food at employee sites and schools	214.043	733.681
+140	Food from vending machines and mobile vendors	226.4545	545.563
+60	Full service meals and snacks	277.354	649.4805
+139	Limited service meals and snacks	310.4165	569.103
+62	Other food away from home	380.539	588.4185
+155	Major appliances	100.4125	172.127
+82	Other appliances	84.4825	189.765
+75	Fuel oil	189.266	420.7365
+76	Propane, kerosene, and firewood	203.5115	437.8965
+153	Bedroom furniture	309.57	475.196
+154	Living room, kitchen, and dining room furniture	263.5975	476.812
+81	Other furniture	335.0325	484.37
+77	Electricity	556.125	355.957
+78	Utility (piped) gas service	584.777	250.7435
+150	Floor coverings	209.58	455.8145
+152	Other linens	230.9865	476.6465
+151	Window coverings	231.559	448.099
+162	Domestic services	565.078	77.56685
+163	Gardening and lawncare services	575.855	105.2042
+86	Moving, storage, freight expense	578.7785	54.5725
+164	Repair of household items	593.156	68.83845
+160	Household cleaning products	415.9335	481.34
+161	Household paper products	447.383	476.5435
+85	Miscellaneous household products	378.2735	482.28
+156	Clocks, lamps, and decorator items	121.5803	204.0035
+157	Dishes and flatware	94.417	216.108
+83	Indoor plants and flowers	119.7605	246.714
+158	Nonelectric cookware and tableware	132.1845	233.76
+72	Housing at school, excluding board	483.91	444.091
+73	Other lodging away from home including hotels and motels	404.39	429.614
+74	Owners' equivalent rent of primary residence	369.987	193.16975
+71	Rent of primary residence	240.352	349.402
+149	Tenants' and household insurance	478.298	393.906
+84	Outdoor equipment and supplies	541.48	52.68475
+159	Tools, hardware and supplies	511.5275	38.3519
+80	Garbage and trash collection	155.16	105.268
+79	Water and sewerage maintenance	135.00515	145.172
+165	Internal and respiratory over-the-counter drugs	777.0835	436.2035
+87	Medical care commodities	746.305	389.5065
+88	Nonprescription medical equipment and supplies	686.277	410.5335
+90	Dental services	725.041	346.657
+91	Eyeglasses and eye care	658.2985	272.758
+166	Health insurance	660.2585	388.1665
+93	Hospital services	656.2715	332.2705
+89	Physicians' services	734.9345	270.9235
+92	Services by other medical professionals	770.263	321.2765
+70	Miscellaneous personal goods	170.0625	715.4525
+144	Cosmetics, perfume, bath, nail preparations and implements	143.381	608.564
+143	Hair, dental, shaving, and miscellaneous personal care products	123.81875	654.105
+145	Haircuts and other personal care services	94.3431	620.1745
+147	Apparel services other than laundry and dry cleaning	136.834	664.916
+69	Financial services	152.5695	651.132
+68	Funeral expenses	148.6265	688.5385
+146	Laundry and dry cleaning services	181.114	681.0515
+67	Legal services	183.662	647.7955
+141	Cigarettes	177.7405	599.3835
+142	Tobacco products other than cigarettes	198.9355	628.8345
+104	Admissions	125.08355	481.999
+103	Club membership dues and fees for participant sports	177.2905	480.854
+105	Fees for lessons or instructions	147.286	447.933
+173	Music instruments and accessories	94.5803	482.1035
+172	Sewing machines, fabric and supplies	95.44575	457.0855
+102	Toys	81.4762	470.218
+99	Pet services including veterinary	148.3025	545.3855
+98	Pets and pet products	177.5635	538.3455
+171	Photographers and film processing	205.7185	540.375
+101	Photographic equipment and supplies	210.1445	526.3535
+174	Newspapers and magazines	209.76	505.2535
+175	Recreational books	202.065	493.491
+170	Sports equipment	49.8337	481.0465
+100	Sports vehicles including bicycles	34.111	496.11
+169	Audio discs, tapes and other media	81.7553	498.929
+168	Audio equipment	45.18355	558.473
+96	Cable and satellite television and radio service	93.1821	540.24
+97	Other video equipment	58.7284	509.3745
+95	Televisions	63.67425	581.297
+167	Video cassettes, discs, and other media including rental	40.59545	529.213
+179	Motor vehicle body work	511.9065	698.0595
+178	Vehicle accessories other than tires	515.284	717.269
+176	Leased cars and trucks	481.014	487.785
+106	New vehicles	674.6555	607.265
+180	Motor vehicle maintenance and servicing	503.595	553.26
+111	Motor vehicle repair	460.735	550.426
+112	Motor vehicle insurance	527.001	635.1015
+182	Parking and other fees	568.268	589.9175
+181	State and local registration and license	528.7685	571.1405
+107	Used cars and trucks	587.7255	711.3945
+177	Other motor fuels	533.8115	756.7195
+108	Car and truck rental	534.822	547.8995
+109	Gasoline (all types)	610.924	481.674
+110	Tires	710.5555	481.9585
+113	Airline fare	746.3495	485.131
+183	Intracity transportation	782.1925	488.721
+114	Other intercity transportation	763.086	531.397
+94	Nursing home and adult daycare services	682.903	267.7695
+148	Care of invalids and elderly at home	130.2425	679.754
+
